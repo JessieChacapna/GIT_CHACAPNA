@@ -1,0 +1,102 @@
+.box1{
+    width: 400px; height: 400px; border: 1px solid #000; background-color: #f0f0f0; text-align: center; line-height: 100px;
+    background-color: rgb(168, 235, 235);
+}
+
+.box2{
+width: 400px; height: 400px; border: 1px solid #000; background-color: #f0f0f0; text-align: center; line-height: 100px;
+background-color: rgb(168, 235, 235);
+}
+
+.box3{
+    width: 400px; height: 400px; border: 1px solid #000; background-color: #f0f0f0; text-align: center; line-height: 100px;
+    background-color: rgb(168, 235, 235);
+}
+
+.Skills {
+    background-color: gray;
+    border: 5px solid  black;
+}
+
+.about {
+    text-align: right;
+    background-color: gray;
+    border: 5px solid black;
+}
+
+.Projects{
+    background-color: grey;
+    border: 5px solid black;
+}
+.skill{
+    color: blanchedalmond;
+}
+.proj{
+    color: blanchedalmond;
+}
+
+.Hello {
+    text-align: center; 
+    background-color: cyan;
+    border: 5px solid black;
+}
+
+.Hello h1 {
+    display: inline-block; 
+    text-align: left; 
+    margin: 0 auto; 
+    max-width: 80%; 
+}
+  .image {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: left;
+    margin-right: 20px; 
+  }
+  
+ .net{
+    height: 100px;
+    width: 100px;
+    margin-top: -12px;
+    float: right;
+    margin-right: 150px;
+ }
+ .webs{
+    height: 100px;
+    width: 100px;
+    margin-top: -307px;
+    float: right;
+    margin-right: 150px;
+ }
+ .fronts{
+    height: 100px;
+    width: 100px;
+    margin-top: -307px;
+    float: right;
+    margin-right: 150px;
+ }
+
+ .folio{
+    height: 100px;
+    width: 100px;
+    margin-top: -307px;
+    float: right;
+    margin-right: 150px;
+ }
+
+ .jobs{
+    height: 100px;
+    width: 100px;
+    margin-top: -307px;
+    float: right;
+    margin-right: 150px;
+ }
+ .term{
+    height: 100px;
+    width: 100px;
+    margin-top: -307px;
+    float: right;
+    margin-right: 150px;
+ }
